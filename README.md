@@ -4,7 +4,6 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Política de Privacidad</title>
 </head>
 <body>
 <h3 id="tittle">Politica de Privacidad de Agent Selector</h3>
